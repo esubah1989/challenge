@@ -1,1 +1,1 @@
-# asssessment
+# Mindex Java coding challange
